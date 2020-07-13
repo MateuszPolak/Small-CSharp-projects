@@ -1,0 +1,16 @@
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\bin\Debug\WpfApp2Polak.exe.config
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\bin\Debug\WpfApp2Polak.exe
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\bin\Debug\WpfApp2Polak.pdb
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\DuckShooter.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\mainwindow.g.cs
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\App.g.cs
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\WpfApp2Polak_MarkupCompile.cache
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\WpfApp2Polak_MarkupCompile.lref
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\App.baml
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\GlassButton.baml
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\mainwindow.baml
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\WpfApp2Polak.g.resources
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\WpfApp2Polak.Properties.Resources.resources
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\DuckShooter.csproj.GenerateResource.cache
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\WpfApp2Polak.exe
+C:\Users\Matt\Desktop\c#dorozpakowania\DuckShooter\WpfApp2Polak\obj\Debug\WpfApp2Polak.pdb
